@@ -1,0 +1,18 @@
+[
+  {
+    "macAddress": "78:8a:20:47:24:d0",
+    "address": "192.168.50.15",
+    "javaClass": "com.untangle.uvm.network.DhcpStaticEntry",
+    "markedForNew": true,
+    "description": "Ubiquiti Cloud Key",
+    "markedForDelete": false
+  },
+  {
+    "macAddress": "00:18:DD:07:2D:B3",
+    "address": "192.168.50.16",
+    "javaClass": "com.untangle.uvm.network.DhcpStaticEntry",
+    "markedForNew": true,
+    "description": "HD Home Run Connect Quad - White Antenna",
+    "markedForDelete": false
+  }
+]

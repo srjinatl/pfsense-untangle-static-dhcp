@@ -1,0 +1,14 @@
+[
+ {
+  "macAddress": "78:8a:20:47:28:d4",
+  "address": "192.168.1.15",
+  "javaClass": "com.untangle.uvm.network.DhcpStaticEntry",
+  "description": "Ubiquiti Cloud Key"
+ },
+ {
+  "macAddress": "00:18:dd:06:2a:b9",
+  "address": "192.168.1.16",
+  "javaClass": "com.untangle.uvm.network.DhcpStaticEntry",
+  "description": "HD HomeRun Connect Quad - Kids Rec Room"
+ }
+]
