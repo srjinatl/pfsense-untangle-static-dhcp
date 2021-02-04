@@ -20,8 +20,14 @@ Command format:
 
 To obtain the information on how to run this utility, 
 enter the following: 
-    
+
+On a Mac:
+
      convert -h
+
+On a Windows machine:
+
+     convert.exe -h
 
 The output from the above should look similar to that
 shown below which explains how to invoke this utility:
